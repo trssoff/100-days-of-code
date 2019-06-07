@@ -15,3 +15,19 @@
 **Thoughts:** I added database support. I Created awesome entity point for interaction with data в базе. I really enjoyed this day.
 
 **Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
+### Round 1 Day 2: June 7, 2019
+
+**Today's Progress**: Added redis database support for long tasks, added worker methods to make long tasks. And created simple Dockerfile for dev environment.
+**Thoughts:** I've learnt how to interact with redis database and make  long tasks in background using flask-rq
+
+**Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
+
+### Round 1 Day 3: June 8, 2019
+
+**Today's Progress**: I added methods for confirmation user email. I've learnt how to use "itsdangerous" for generation and validation of tokens.  
+**Thoughts:** Creating API without documentation is becoming a problem. Before I continue, I should write some documentations about the project. 
+
+**Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
