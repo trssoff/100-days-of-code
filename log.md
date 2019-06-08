@@ -23,7 +23,6 @@
 
 **Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
 
-
 ### Round 1 Day 3: June 8, 2019
 
 **Today's Progress**: I added methods for confirmation user email. I've learnt how to use "itsdangerous" for generation and validation of tokens.  
