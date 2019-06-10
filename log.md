@@ -36,6 +36,14 @@
 
 **Today's Progress**: I spent the day writing README.md. What, you guys think that's okay?  
 
-**Thoughts:** I thought everything about this project through in the finest detail. It would be nice if i write all thoughts in the documentation, Someday, that will happen, but not today. 
+**Thoughts:** I thought everything about this project through in the finest detail. It would be nice if i write all thoughts in the documentation. Someday, that will happen, but not today. 
+
+**Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
+### Round 1 Day 5: June 10, 2019
+
+**Today's Progress**: Today, I learned how use the basic relational patterns in SQLAlchemy ORM. Also i added additional blue print in the project.  
+
+**Thoughts:** In conclusion, I look forward to continuing to writing the project documentation.
 
 **Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
