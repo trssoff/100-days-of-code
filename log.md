@@ -47,3 +47,11 @@
 **Thoughts:** In conclusion, I look forward to continuing to writing the project documentation.
 
 **Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
+### Round 1 Day 6: June 11, 2019
+
+**Today's Progress**: Today, I added some cool features in my project.  
+
+**Thoughts:** I'm really excited because this project is now close to completion.
+
+**Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
