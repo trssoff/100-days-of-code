@@ -55,3 +55,12 @@
 **Thoughts:** I'm really excited because this project is now close to completion.
 
 **Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
+
+### Round 1 Day 7: June 11, 2019
+
+**Today's Progress**: Today, I added telegram send message support for my project.  
+
+**Thoughts:** I need to think about database schema.
+
+**Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
