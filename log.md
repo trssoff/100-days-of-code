@@ -72,3 +72,12 @@
 **Thoughts:** Of course, I have a long way to go. But it's allready works. Awesome day. 
 
 **Link to work:** [Flask-Restful-Api](https://github.com/trssoff/flask-restful-api)
+
+
+### Round 1 Day 9: June 14, 2019
+
+**Today's Progress**: I have created The little 🚂 telegram bot framework that could. Built with ❤︎ by Me and Many other people who inspired me. 
+
+**Thoughts:** #Awesome day. 
+
+**Link to work:** [telegram-plugin-bot](https://github.com/trssoff/telegram-plugin-bot)
