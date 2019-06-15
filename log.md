@@ -81,3 +81,11 @@
 **Thoughts:** #Awesome day. 
 
 **Link to work:** [telegram-plugin-bot](https://github.com/trssoff/telegram-plugin-bot)
+
+### Round 1 Day 11: June 15, 2019
+
+**Today's Progress**: Today, using my telegram bot framework I added second plugin to my bot. 
+
+**Thoughts:** I should write some documentations about the project. 
+
+**Link to work:** [telegram-plugin-bot](https://github.com/trssoff/telegram-plugin-bot)
