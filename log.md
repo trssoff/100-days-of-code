@@ -123,3 +123,10 @@
 
 **Link to work:** [telegram-plugin-bot](https://github.com/trssoff/tg-s3)
 
+### Round 1 Day 16: June 20, 2019
+
+**Today's Progress**: Today I have made a big progress. Let me remind you that the TG-S3 project is AWS S3 compatibility storage based on Telegram.
+
+**Thoughts:** I've finished "Create bucket", "List bucket", "Get_all_keys", "Read keys" functionality. 
+
+**Link to work:** [telegram-plugin-bot](https://github.com/trssoff/tg-s3)
