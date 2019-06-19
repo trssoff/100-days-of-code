@@ -89,3 +89,12 @@
 **Thoughts:** I should write some documentations about the project. 
 
 **Link to work:** [telegram-plugin-bot](https://github.com/trssoff/telegram-plugin-bot)
+
+
+### Round 1 Day 12: June 16, 2019
+
+**Today's Progress**: I am reading how to test apps using PyTest, and today I’ve created my first test module. Awesome, may be I start using TDD methodology. 
+
+**Thoughts:** Real TDD, not “Twitter Driven Development”!
+
+**Link to work:** [telegram-plugin-bot](https://github.com/trssoff/telegram-plugin-bot)
