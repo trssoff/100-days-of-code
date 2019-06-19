@@ -106,3 +106,12 @@
 **Thoughts:** It was difficult task for me, but I’ll try to finish it.
 
 **Link to work:** [telegram-plugin-bot](https://github.com/trssoff/tg-s3)
+
+### Round 1 Day 14: June 18, 2019
+
+**Today's Progress**: Today I thought my head was gonna explode. I started reading aws s3 api specifications to create own s3 storage based on Telegram.
+
+**Thoughts:** The biggest problem for me the validation AWS signature on backend.
+
+**Link to work:** [telegram-plugin-bot](https://github.com/trssoff/tg-s3)
+
