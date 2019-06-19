@@ -98,3 +98,11 @@
 **Thoughts:** Real TDD, not “Twitter Driven Development”!
 
 **Link to work:** [telegram-plugin-bot](https://github.com/trssoff/telegram-plugin-bot)
+
+### Round 1 Day 13: June 17, 2019
+
+**Today's Progress**: I’ve just started new ambitious project. I want to create own ultimate S3 compatibility storage server, based on telegram. 
+
+**Thoughts:** It was difficult task for me, but I’ll try to finish it.
+
+**Link to work:** [telegram-plugin-bot](https://github.com/trssoff/tg-s3)
